@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://assets.safcsp.cloud/programming-languages/pythonTwoStars.svg" height="80" width="80" alt="python achievements"  />
   <img src="https://assets.safcsp.cloud/programming-languages/jsTwoStars.svg" height="80" width="80" alt="javascript achievements"  />
-  <img src="https://assets.safcsp.cloud/badges/phpOneStar-01.svg" height="80" width="80" alt="javascript achievements"  />
+  <img src="https://assets.safcsp.cloud/badges/phpOneStar-02.svg" height="80" width="80" alt="javascript achievements"  />
 </div>
 
 # 💻 Tech Stack
