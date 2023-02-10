@@ -12,7 +12,7 @@
 # 🏆 satr achievments
 <div align="center">
   <img src="https://assets.safcsp.cloud/programming-languages/pythonTwoStars.svg" height="80" width="80" alt="python achievements"  />
-  <img src="https://assets.safcsp.cloud/programming-languages/jsThreeStars.svg" height="80" width="80" alt="javascript achievements"  />
+  <img src="https://assets.safcsp.cloud/programming-languages/jsThreeStars.svg" height="100" width="100" alt="javascript achievements"  />
   <img src="https://assets.safcsp.cloud/badges/phpOneStar-02.svg" height="80" width="80" alt="javascript achievements"  />
 </div>
 
