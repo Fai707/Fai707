@@ -6,15 +6,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fai707&theme=dark&hide_border=true" height="95" alt="languages graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fai707&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="95" alt="streak graph"/>
 
+# 📊 Codewars Stats
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fai707&theme=dark)]
+
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fai707&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
-# 🏆 satr achievments
-<div align="center">
-  <img src="https://assets.safcsp.cloud/programming-languages/pythonTwoStars.svg" height="80" width="80" alt="python achievements"  />
-  <img src="https://assets.safcsp.cloud/programming-languages/jsThreeStars.svg" height="100" width="100" alt="javascript achievements"  />
-  <img src="https://assets.safcsp.cloud/badges/phpOneStar-02.svg" height="80" width="80" alt="javascript achievements"  />
-</div>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-E34C26.svg?style=for-the-badge&logo=html5&logoColor=white) 
