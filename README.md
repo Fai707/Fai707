@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fai707&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="95" alt="streak graph"/>
 
 # 📊 Codewars Stats
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fai707&theme=dark)]
+![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fai707&theme=dark)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fai707&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
