@@ -390,15 +390,15 @@
           </clipPath>
           <g clip-path="url(#typewriter-clip-widget_1792982216885_2-10)">
             <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#30363d">─</tspan><tspan fill="#c5ff4a"> Fai707@github </tspan><tspan fill="#30363d">────────────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.....................</tspan><tspan fill="#f0f6fc"> 6 years, 1 month, 5 days</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.....................</tspan><tspan fill="#f0f6fc"> 6 years, 1 month, 8 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">...............................</tspan><tspan fill="#f0f6fc"> Saudi Arabia</tspan></text>
 <text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Company: </tspan><tspan fill="#484f58">........................................</tspan><tspan fill="#f0f6fc"> @uqu</tspan></text>
-<text x="12" y="92" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">........</tspan><tspan fill="#f0f6fc"> C, Python, Shell, Jupyter Notebook</tspan></text>
+<text x="12" y="92" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">...</tspan><tspan fill="#f0f6fc"> C, HTML, Python, Shell, Jupyter Notebo…</tspan></text>
 <text x="12" y="118" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#30363d">─</tspan><tspan fill="#c5ff4a"> Contact </tspan><tspan fill="#30363d">──────────────────────────────────────────────</tspan></text>
 <text x="12" y="136" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">............................</tspan><tspan fill="#f0f6fc"> github.com/Fai707</tspan></text>
 <text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#30363d">─</tspan><tspan fill="#c5ff4a"> GitHub Stats </tspan><tspan fill="#30363d">─────────────────────────────────────────</tspan></text>
-<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 7</tspan><tspan fill="#30363d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 5</tspan></text>
-<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 23</tspan><tspan fill="#30363d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 3</tspan></text>
+<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 7</tspan><tspan fill="#30363d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 7</tspan></text>
+<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 37</tspan><tspan fill="#30363d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 4</tspan></text>
 <text x="12" y="216" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Gists: </tspan><tspan fill="#484f58">.............................................</tspan><tspan fill="#79c0ff"> 1</tspan></text>
           </g>
         
@@ -471,25 +471,30 @@
       
       
     <text class="anim-target" x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 0ms; transform-origin: center;">[ TOP LANGUAGES ]</text>
-    <rect class="anim-target" x="24" y="52" width="195.20000000000002" height="8" fill="#3572A5" rx="2"  style="animation-delay: 35ms; transform-origin: center;" /><rect class="anim-target" x="219.20000000000002" y="52" width="97.60000000000001" height="8" fill="#c5ff4a" rx="2"  style="animation-delay: 71ms; transform-origin: center;" /><rect class="anim-target" x="316.8" y="52" width="97.60000000000001" height="8" fill="#89e051" rx="2"  style="animation-delay: 106ms; transform-origin: center;" /><rect class="anim-target" x="414.40000000000003" y="52" width="97.60000000000001" height="8" fill="#c5ff4a" rx="2"  style="animation-delay: 141ms; transform-origin: center;" />
+    <rect class="anim-target" x="24" y="52" width="187.6923076923077" height="8" fill="#3572A5" rx="2"  style="animation-delay: 29ms; transform-origin: center;" /><rect class="anim-target" x="211.6923076923077" y="52" width="75.07692307692308" height="8" fill="#c5ff4a" rx="2"  style="animation-delay: 57ms; transform-origin: center;" /><rect class="anim-target" x="286.7692307692308" y="52" width="75.07692307692308" height="8" fill="#e34c26" rx="2"  style="animation-delay: 86ms; transform-origin: center;" /><rect class="anim-target" x="361.84615384615387" y="52" width="75.07692307692308" height="8" fill="#89e051" rx="2"  style="animation-delay: 114ms; transform-origin: center;" /><rect class="anim-target" x="436.92307692307696" y="52" width="75.07692307692308" height="8" fill="#c5ff4a" rx="2"  style="animation-delay: 143ms; transform-origin: center;" />
       <g transform="translate(24, 80)">
-        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#3572A5"  style="animation-delay: 176ms; transform-origin: center;" />
-        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 212ms; transform-origin: center;">Python <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 247ms; transform-origin: center;">40%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#3572A5"  style="animation-delay: 171ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 200ms; transform-origin: center;">Python <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 229ms; transform-origin: center;">38%</tspan></text>
       </g>
     
       <g transform="translate(268, 80)">
-        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#c5ff4a"  style="animation-delay: 282ms; transform-origin: center;" />
-        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 318ms; transform-origin: center;">C <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 353ms; transform-origin: center;">20%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#c5ff4a"  style="animation-delay: 257ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 286ms; transform-origin: center;">C <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 314ms; transform-origin: center;">15%</tspan></text>
       </g>
     
       <g transform="translate(24, 104)">
-        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#89e051"  style="animation-delay: 388ms; transform-origin: center;" />
-        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 424ms; transform-origin: center;">Shell <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 459ms; transform-origin: center;">20%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#e34c26"  style="animation-delay: 343ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 371ms; transform-origin: center;">HTML <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 400ms; transform-origin: center;">15%</tspan></text>
       </g>
     
       <g transform="translate(268, 104)">
-        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#c5ff4a"  style="animation-delay: 494ms; transform-origin: center;" />
-        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 529ms; transform-origin: center;">Jupyter Notebook <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 565ms; transform-origin: center;">20%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#89e051"  style="animation-delay: 429ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 457ms; transform-origin: center;">Shell <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 486ms; transform-origin: center;">15%</tspan></text>
+      </g>
+    
+      <g transform="translate(24, 128)">
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#c5ff4a"  style="animation-delay: 514ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5" style="animation-delay: 543ms; transform-origin: center;">Jupyter Notebook <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 571ms; transform-origin: center;">15%</tspan></text>
       </g>
     
   
@@ -712,7 +717,7 @@
     <text class="anim-target" x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 0ms; transform-origin: center;">[ GITHUB METRICS ]</text>
     
         <g transform="translate(24, 48)">
-          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c5ff4a" style="animation-delay: 46ms; transform-origin: center;">[ 5 ]</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c5ff4a" style="animation-delay: 46ms; transform-origin: center;">[ 7 ]</text>
           <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 92ms; transform-origin: center;">STARS</text>
         </g>
         <g transform="translate(146.66666666666669, 48)">
@@ -720,11 +725,11 @@
           <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 185ms; transform-origin: center;">REPOS</text>
         </g>
         <g transform="translate(269.33333333333337, 48)">
-          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c5ff4a" style="animation-delay: 231ms; transform-origin: center;">[ 3 ]</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c5ff4a" style="animation-delay: 231ms; transform-origin: center;">[ 4 ]</text>
           <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 277ms; transform-origin: center;">FOLLOWERS</text>
         </g>
         <g transform="translate(392, 48)">
-          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c5ff4a" style="animation-delay: 323ms; transform-origin: center;">[ 4 ]</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c5ff4a" style="animation-delay: 323ms; transform-origin: center;">[ 6 ]</text>
           <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 369ms; transform-origin: center;">FOLLOWING</text>
         </g>
         <g transform="translate(514.6666666666667, 48)">
@@ -807,33 +812,33 @@
       <text class="anim-target" x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 0ms; transform-origin: center;">[ FEATURED REPOSITORIES ]</text>
       
         <g transform="translate(24, 50)">
-          <rect class="anim-target" x="0" y="0" width="362" height="80" fill="#1e1e1e" rx="4"  style="animation-delay: 29ms; transform-origin: center;" />
-          <rect class="anim-target" x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2"  style="animation-delay: 57ms; transform-origin: center;" />
-          <text class="anim-target" x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a" style="animation-delay: 86ms; transform-origin: center;">C-TextKit</text>
-          <text class="anim-target" x="354" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a" style="animation-delay: 114ms; transform-origin: center;">★ 1</text>
-          <text class="anim-target" x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 143ms; transform-origin: center;">A collection of string manipulation tool…</text>
-          <text class="anim-target" x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a" style="animation-delay: 171ms; transform-origin: center;">C</text>
-          <text class="anim-target" x="354" y="70" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 200ms; transform-origin: center;">⑂ 0</text>
+          <rect class="anim-target" x="0" y="0" width="362" height="80" fill="#1e1e1e" rx="4"  style="animation-delay: 27ms; transform-origin: center;" />
+          <rect class="anim-target" x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2"  style="animation-delay: 55ms; transform-origin: center;" />
+          <text class="anim-target" x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a" style="animation-delay: 82ms; transform-origin: center;">C-TextKit</text>
+          <text class="anim-target" x="354" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a" style="animation-delay: 109ms; transform-origin: center;">★ 1</text>
+          <text class="anim-target" x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 136ms; transform-origin: center;">A collection of string manipulation tool…</text>
+          <text class="anim-target" x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a" style="animation-delay: 164ms; transform-origin: center;">C</text>
+          <text class="anim-target" x="354" y="70" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 191ms; transform-origin: center;">⑂ 0</text>
         </g>
       
         <g transform="translate(398, 50)">
-          <rect class="anim-target" x="0" y="0" width="362" height="80" fill="#1e1e1e" rx="4"  style="animation-delay: 229ms; transform-origin: center;" />
-          <rect class="anim-target" x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2"  style="animation-delay: 257ms; transform-origin: center;" />
-          <text class="anim-target" x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a" style="animation-delay: 286ms; transform-origin: center;">Fai707</text>
-          <text class="anim-target" x="354" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a" style="animation-delay: 314ms; transform-origin: center;">★ 1</text>
-          <text class="anim-target" x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 343ms; transform-origin: center;">designed using gitascii</text>
-          
-          <text class="anim-target" x="354" y="70" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 371ms; transform-origin: center;">⑂ 0</text>
+          <rect class="anim-target" x="0" y="0" width="362" height="80" fill="#1e1e1e" rx="4"  style="animation-delay: 218ms; transform-origin: center;" />
+          <rect class="anim-target" x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2"  style="animation-delay: 245ms; transform-origin: center;" />
+          <text class="anim-target" x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a" style="animation-delay: 273ms; transform-origin: center;">intentionally-vu…</text>
+          <text class="anim-target" x="354" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a" style="animation-delay: 300ms; transform-origin: center;">★ 1</text>
+          <text class="anim-target" x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 327ms; transform-origin: center;">No description.</text>
+          <text class="anim-target" x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a" style="animation-delay: 355ms; transform-origin: center;">HTML</text>
+          <text class="anim-target" x="354" y="70" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 382ms; transform-origin: center;">⑂ 0</text>
         </g>
       
         <g transform="translate(24, 142)">
-          <rect class="anim-target" x="0" y="0" width="362" height="80" fill="#1e1e1e" rx="4"  style="animation-delay: 400ms; transform-origin: center;" />
-          <rect class="anim-target" x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2"  style="animation-delay: 429ms; transform-origin: center;" />
-          <text class="anim-target" x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a" style="animation-delay: 457ms; transform-origin: center;">My-i3-dotfiles</text>
-          <text class="anim-target" x="354" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a" style="animation-delay: 486ms; transform-origin: center;">★ 1</text>
-          <text class="anim-target" x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 514ms; transform-origin: center;">my current i3 .config files</text>
-          <text class="anim-target" x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a" style="animation-delay: 543ms; transform-origin: center;">Shell</text>
-          <text class="anim-target" x="354" y="70" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 571ms; transform-origin: center;">⑂ 0</text>
+          <rect class="anim-target" x="0" y="0" width="362" height="80" fill="#1e1e1e" rx="4"  style="animation-delay: 409ms; transform-origin: center;" />
+          <rect class="anim-target" x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2"  style="animation-delay: 436ms; transform-origin: center;" />
+          <text class="anim-target" x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a" style="animation-delay: 464ms; transform-origin: center;">sa-domain-checker</text>
+          <text class="anim-target" x="354" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a" style="animation-delay: 491ms; transform-origin: center;">★ 1</text>
+          <text class="anim-target" x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 518ms; transform-origin: center;">a tool that checks short .sa domain avai…</text>
+          <text class="anim-target" x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a" style="animation-delay: 545ms; transform-origin: center;">Python</text>
+          <text class="anim-target" x="354" y="70" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a" style="animation-delay: 573ms; transform-origin: center;">⑂ 0</text>
         </g>
       
     
